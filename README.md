@@ -41,7 +41,7 @@ mass -> masses
 fish -> fishses  
 
 # Simplified Letters
-In english each letter can have nearly a dozen different pronounciations. This is terrible. Therefore I will make each letter only have a single pronunciation. Each letter only makes its soft sound. To make a hard sound simply put the letter twice. Because we already have c, k becomes "ch". Also I changed "double yoo" to just "oo". Here are the only sounds that letters can make:  
+In english each letter can have nearly a dozen different pronounciations which is terrible. My descriptions of the letters are in terms of regular American english. Therefore I will make each letter only have a single pronunciation. Each letter only makes its lowercase sound. To make an uppercase sound simply put the letter twice. Note that because we already have c, k becomes "ch". Also I changed "double yoo" to just "oo". When two sounds that don't flow together very well are side by side can you smear the sounds together. Here are the only sounds that letters can make:  
 a -> ah  
 b -> buh  
 c -> cuh  
@@ -100,30 +100,30 @@ zz -> zee
 I figured it would be easier to change the spelling of words rather than their pronunciation. Therefore you spell any word you can literally just sound it out like a toddler. This also means there are multiple spellings for each word which isn't great, but it's better than having to learn a new pronunciation for each word.
 
 ## Changing verbs into nouns
-To change a verb into a noun add "in" or "er".
-run -> runner (a noun doing the act of to run)
-run -> runnin (the act of to run)
+To change a verb into a noun add "in" or "er".  
+run -> runer (a noun doing the act of to run)  
+run -> runin (the act of to run as a noun)  
 
 ## Changing verbs to adjectives
-To change a verb into an adjective add "ing" or "ed"
-run -> running (describes a noun to be in the act of to run)
-learn -> learned (describes a noun to have completed the act of to learn)
+To change a verb into an adjective add "ing" or "ed"  
+run -> runing (describes a noun to be in the act of to run)  
+learn -> learned (describes a noun to have completed the act of to learn)  
 
 ## Changing adjectives into adverbs
-To change an adjective into an adverb add "ly"
-gentle -> gentlely (describes the manner in which something is done)
-running -> runningly (idk what it means, but it's a valid word)
-learned -> learnedly (idk what it means, but it's a valid word)
+To change an adjective into an adverb add "ly"  
+gentle -> gentlely (describes the manner in which something is done)  
+runing -> runingly (idk what it means, but it's a valid word)  
+learned -> learnedly (idk what it means, but it's a valid word)  
 
 ## Differing levels of adjectives
-Use "yuh" and "est" to denote more and most degrees of an adjective.
-high -> highyuh (more high and just high)
-high -> highest (the most degree of high possible)
-many -> manyuh (more many than just many; note that since it ends in "y" we don't add an extra "y")
-many -> manyest (the most amount of many possible)
+Use "yuh" and "est" to denote more and most degrees of an adjective.  
+high -> highyuh (more high and just high)  
+high -> highest (the most degree of high possible)  
+many -> manyuh (more many than just many; note that since it ends in "y" we don't add an extra "y")  
+many -> manyest (the most amount of many possible)  
 
 ## Reverse the meaning of a word
-To reverse the meaning of a word add "un" to the start of it
-screw -> unscrew
-capitate -> uncapitate
+To reverse the meaning of a word add "un" to the start of it  
+screw -> unscrew  
+capitate -> uncapitate  
 
