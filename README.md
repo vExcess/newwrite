@@ -64,7 +64,7 @@ s -> sss
 t -> tuh  
 u -> uh  
 v -> vvv  
-w -> oo  
+w -> wu  
 x -> xxx  
 y -> yyy  
 z -> zzz  
@@ -91,7 +91,7 @@ ss -> ess
 tt -> tee  
 uu -> yoo  
 vv -> vee  
-ww -> wuh  
+ww -> oo   
 xx -> ex  
 yy -> why  
 zz -> zee  
