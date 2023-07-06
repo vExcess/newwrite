@@ -41,7 +41,7 @@ mass -> masses
 fish -> fishses  
 
 # Simplified Letters
-In english each letter can have nearly a dozen different pronounciations which is terrible. My descriptions of the letters are in terms of regular American english. Therefore I will make each letter only have a single pronunciation. Each letter only makes its lowercase sound. To make an uppercase sound simply put the letter twice. Note that because we already have c, k becomes "ch". Also I changed "double yoo" to just "oo". When two sounds that don't flow together very well are side by side can you smear the sounds together. Here are the only sounds that letters can make:  
+In english each letter can have nearly a dozen different pronounciations which is terrible. My descriptions of the letters are in terms of regular American english. Therefore I will make each letter only have a single pronunciation. Each letter only makes its lowercase sound. To make an uppercase sound simply put the letter twice. Note that because we already have c, k becomes "ch". Also I changed W. When two sounds that don't flow together very well are side by side can you smear the sounds together. Here are the only sounds that letters can make:  
 a -> ah  
 b -> buh  
 c -> cuh  
@@ -64,7 +64,7 @@ s -> sss
 t -> tuh  
 u -> uh  
 v -> vvv  
-w -> wu  
+w -> makes the sound of the o in "or"  
 x -> xxx  
 y -> yyy  
 z -> zzz  
@@ -91,7 +91,7 @@ ss -> ess
 tt -> tee  
 uu -> yoo  
 vv -> vee  
-ww -> oor   
+ww -> wuh  
 xx -> ex  
 yy -> why  
 zz -> zee  
