@@ -91,7 +91,7 @@ ss -> ess
 tt -> tee  
 uu -> yoo  
 vv -> vee  
-ww -> oo   
+ww -> orw   
 xx -> ex  
 yy -> why  
 zz -> zee  
