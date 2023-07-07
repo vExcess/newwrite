@@ -115,6 +115,11 @@ gentle -> gentlely (describes the manner in which something is done)
 runing -> runingly (idk what it means, but it's a valid word)  
 learned -> learnedly (idk what it means, but it's a valid word)  
 
+## Changing nouns into adjectives
+To change a noun into an adjective ad "al"
+environment -> evironmental (relating to an environment)
+experiment -> experimental (relating to an experiment)
+
 ## Differing levels of adjectives
 Use "yuh" and "est" to denote more and most degrees of an adjective.  
 high -> highyuh (more high and just high)  
