@@ -42,32 +42,32 @@ fish -> fishses
 
 # Simplified Letters
 In english each letter can have nearly a dozen different pronounciations which is terrible. My descriptions of the letters are in terms of regular American english. Therefore I will make each letter only have a single pronunciation. Each letter only makes its lowercase sound. To make an uppercase sound simply put the letter twice. Note that because we already have c, k becomes "ch". Also I changed W. When two sounds that don't flow together very well are side by side can you smear the sounds together. Here are the only sounds that letters can make:  
-a -> ah  
-b -> buh  
-c -> cuh  
-d -> duh  
-e -> eh  
-f -> fh  
-g -> guh  
-h -> hu  
-i -> ih  
-j -> juh  
-k -> ch  
-l -> ull  
-m -> mmm  
-n -> nnn  
-o -> aww  
-p -> puh  
-q -> quh  
-r -> rrr  
-s -> sss  
-t -> tuh  
-u -> uh  
-v -> vvv  
-w -> makes the sound of the o in "or"  
-x -> xxx  
-y -> yyy  
-z -> zzz  
+a -> ah as in apple  
+b -> buh as in ball  
+c -> cuh as in computer  
+d -> duh as in doll  
+e -> eh as in elephant  
+f -> fh as in fish  
+g -> guh as in gorilla  
+h -> hu as in house  
+i -> ih as in igloo  
+j -> ju as in jacket  
+k -> ch as in chinese  
+l -> ull as in lollipop  
+m -> mmm as in monkey  
+n -> nnn as in night  
+o -> aww as in octopus  
+p -> puh as in penguin  
+q -> quh as in quest  
+r -> rrr as in Rust 🚀  
+s -> sss as in snake  
+t -> tuh as in table  
+u -> uh as in umbrella  
+v -> vvv as in vase  
+w -> makes the sound of oo in door  
+x -> xxx as in x-ray  
+y -> yyy as in yellow  
+z -> zzz as in zebra  
   
 aa -> ayy  
 bb -> bee  
@@ -116,9 +116,9 @@ runing -> runingly (idk what it means, but it's a valid word)
 learned -> learnedly (idk what it means, but it's a valid word)  
 
 ## Changing nouns into adjectives
-To change a noun into an adjective ad "al"
-environment -> evironmental (relating to an environment)
-experiment -> experimental (relating to an experiment)
+To change a noun into an adjective ad "al"  
+environment -> evironmental (relating to an environment)  
+experiment -> experimental (relating to an experiment)  
 
 ## Differing levels of adjectives
 Use "yuh" and "est" to denote more and most degrees of an adjective.  
