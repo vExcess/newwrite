@@ -127,8 +127,13 @@ high -> highest (the most degree of high possible)
 many -> manyuh (more many than just many; note that since it ends in "y" we don't add an extra "y")  
 many -> manyest (the most amount of many possible)  
 
-## Reverse the meaning of a word
-To reverse the meaning of a word add "un" to the start of it  
+## Reverse the meaning of a verb
+To reverse the meaning of a verb add "un" to the start of it  
 screw -> unscrew  
 capitate -> uncapitate  
+
+## Reverse the meaning of a noun or adjective
+To reverse the meaning of a noun or adjective add "non" to the start of it  
+belief -> nonbelief  
+precedented -> nonprecedented  
 
