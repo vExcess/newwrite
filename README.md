@@ -115,6 +115,11 @@ gentle -> gentlely (describes the manner in which something is done)
 runing -> runingly (idk what it means, but it's a valid word)  
 learned -> learnedly (idk what it means, but it's a valid word)  
 
+## Changing adjectives into noun
+To change an adjective into an noun add "ity"  
+agile -> agileity (the quality of being agile)  
+civil -> civility (the quality of being civil)  
+
 ## Changing nouns into adjectives
 To change a noun into an adjective ad "al"  
 environment -> evironmental (relating to an environment)  
